@@ -23,20 +23,20 @@
 * **Spring Boot**
 * **JPA / Hibernate**
 * REST API 설계
-* 트랜잭션 관리 및 예외 처리
-
-### Familiar (실무 사용 경험)
-
 * MySQL / MariaDB
-* Redis
-* Docker
-* AWS EC2
-* Git / Git Flow
 
-### Barely Know (개념 이해)
+### Familiar
+
+* Git / Git Flow
+* Docker
+
+### Barely Know
 
 * Kubernetes
 * Jenkins
+* AWS EC2
+* 트랜잭션 관리 및 예외 처리
+* Redis
 
 ---
 
