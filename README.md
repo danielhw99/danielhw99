@@ -1,33 +1,71 @@
-# 이형욱|BE 개발자 꿈나무
-
-```Hello world```
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Hi,%20I'm%20Hyungwook&fontSize=90)
 
 
+**Backend Engineer**
 
-```
-"
-안녕하세요:) 함께 BEHIND SW 듣는 이형욱입니다.
-함께 배우고 성장하는 유익한 시간 되었으면 좋겠습니다.
-"
-```
+기술을 목적이 아닌 **문제 해결의 수단**으로 사용하는 백엔드 개발자입니다.
 
 ---
-- ## ❓About me
 
-  **[Github](https://github.com/danielhw99/Lee-HyungWook)**
+## 📈 GitHub Stats *(Optional)*
 
-  **[Blog](https://velog.io/@danielhw99/posts)**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielhw99&show_icons=true)
 
-  **Email: danielhw99@gmail.com**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhw99&layout=compact)
 
 ---
-- ## Skill
-- ### Stack
-      C, C++, Python
-- ### Strong
-      협력, 소통
-- ### Knowledgable
-      CompilerGym, Typescript
-- ### ETC
-      Git
- 
+
+## 🛠 Tech Stack
+
+### Core (능숙)
+
+* **Java**
+* **Spring Boot**
+* **JPA / Hibernate**
+* REST API 설계
+* 트랜잭션 관리 및 예외 처리
+
+### Familiar (실무 사용 경험)
+
+* MySQL / MariaDB
+* Redis
+* Docker
+* AWS EC2
+* Git / Git Flow
+
+### Barely Know (개념 이해)
+
+* Kubernetes
+* Jenkins
+
+---
+
+## ✍️ Writing & Logs
+
+개발 과정에서의 고민과 문제 해결 과정을 기록합니다.
+
+* 📘 Blog: [https://velog.io/@danielhw99](https://velog.io/@danielhw99)
+* 대표 글:
+
+  * 프로젝트 회고 및 기술 선택 배경 정리
+  * 트러블 슈팅 과정 기록 (원인 → 시도 → 해결)
+
+> 결과보다 **과정과 판단 근거를 남기는 것**이 성장에 중요하다고 믿습니다.
+
+---
+
+
+## 📫 Contact
+
+* Blog: [https://velog.io/@danielhw99](https://velog.io/@danielhw99)
+* GitHub: [https://github.com/danielhw99](https://github.com/danielhw99)
+* Email: *(필요 시 추가)*
+
+---
+
+## ✨ Final Note
+
+> 빠르게 만드는 개발자보다,
+> **오래 운영할 수 있는 선택을 하는 개발자**가 되고 싶습니다.
+
+---
