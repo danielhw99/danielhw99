@@ -9,9 +9,9 @@
 
 ## 📈 GitHub Stats *(Optional)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielhw99&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danielhw99&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhw99&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielhw99&layout=compact)
 
 ---
 
