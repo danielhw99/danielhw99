@@ -57,15 +57,12 @@
 
 ## 📫 Contact
 
-* Blog: [https://velog.io/@danielhw99](https://velog.io/@danielhw99)
-* GitHub: [https://github.com/danielhw99](https://github.com/danielhw99)
-* Email: *(필요 시 추가)*
+* Email: danielhw99@gmail.com
 
 ---
 
 ## ✨ Final Note
 
-> 빠르게 만드는 개발자보다,
-> **오래 운영할 수 있는 선택을 하는 개발자**가 되고 싶습니다.
+> 빠르게 만드는 개발자보다, 오래 운영할 수 있는 선택을 하는 개발자가 되고 싶습니다.
 
 ---
