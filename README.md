@@ -4,7 +4,7 @@
 즐겁게 개발합니다.
 ---
 
-## 📈 GitHub Stats *(Optional)*
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danielhw99&show_icons=true)
 
