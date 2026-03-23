@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Backend%20Developer's%20Repo&fontSize=60)
 
 
-즐겁게 개발합니다.
+즐겁게 치열하게 개발하는 백엔드 개발자입니다.
 ---
 
 
-### PROFILE
+### P R O F I L E
 * Name: 이형욱 | LEE HYUNG WOOK
 * Email: danielhw99@gmail.com
 * Resume: [이력서 링크](https://dull-revolve-bfe.notion.site/30ff80e55e70807286bcf78af634e399?source=copy_link)
@@ -14,7 +14,7 @@
 
 
 
-## GitHub Stats
+## G I T H U B - S T A T S
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danielhw99&show_icons=true)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## S K I L L
+## S K I L L S
 
 **Backend**
 
@@ -48,7 +48,7 @@
 > Java와 Spring Boot를 중심으로 백엔드 API를 설계·구현해왔으며, MySQL/MariaDB 기반 데이터 모델링과 JPA 활용 경험이 있습니다.
 
 
-
+---
 
 ### Writing & Logs
 
