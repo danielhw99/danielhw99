@@ -59,13 +59,6 @@
 
 <br><br>
 
-## Writing & Logs
-
-* 📘 Blog: [https://velog.io/@danielhw99](https://velog.io/@danielhw99)
-
-
-<br><br>
-
 
 ## P R O J E C T
 
@@ -81,4 +74,11 @@
 * 링크: https://github.com/20250918-beyond-SW-Camp-21th/beyond-SW-21th-Final-4team-BE
 * 담당: 사용자 생애주기 관리 및 CRM, 마이페이지 기능 중심의 백엔드 설계·구현 및 프론트엔드 연동
 
----
+
+
+<br><br>
+
+## W R I T I N G
+
+* 📘 Blog: [https://velog.io/@danielhw99](https://velog.io/@danielhw99)
+
