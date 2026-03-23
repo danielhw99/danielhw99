@@ -4,6 +4,16 @@
 즐겁게 개발합니다.
 ---
 
+
+### PROFILE
+* Name: 이형욱 | LEE HYUNG WOOK
+* Email: danielhw99@gmail.com
+* Resume: [이력서 링크](https://dull-revolve-bfe.notion.site/30ff80e55e70807286bcf78af634e399?source=copy_link)
+
+
+
+
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danielhw99&show_icons=true)
@@ -43,14 +53,6 @@
 ### Writing & Logs
 
 * 📘 Blog: [https://velog.io/@danielhw99](https://velog.io/@danielhw99)
-
-
-
-
-### Contact
-
-* Email: danielhw99@gmail.com
-
 
 
 
