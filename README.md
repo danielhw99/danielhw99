@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Are%20You%20Interested%20In%20Backend%20Engineering?&fontSize=30)
 
 
-즐겁게 치열하게 개발하는 백엔드 개발자입니다.
----
+## 즐겁게 치열하게 개발하는 백엔드 개발자입니다.
 
+<br>
+<br>
 
 ## P R O F I L E
 * Name: 이형욱 | LEE HYUNG WOOK
@@ -68,7 +69,7 @@
 
 ## P R O J E C T
 
-<br><br>
+<br>
 
 ### FreeBridge 프리랜서와 고용주 매칭 서비스
 
