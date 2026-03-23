@@ -1,17 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Backend%20Developer's%20Repo&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Are%20You%20Interested%20In%20Backend%20Engineering?&fontSize=30)
 
 
 즐겁게 치열하게 개발하는 백엔드 개발자입니다.
 ---
 
 
-### P R O F I L E
+## P R O F I L E
 * Name: 이형욱 | LEE HYUNG WOOK
 * Email: danielhw99@gmail.com
 * Resume: [이력서 링크](https://dull-revolve-bfe.notion.site/30ff80e55e70807286bcf78af634e399?source=copy_link)
 
 
-
+<br>
 
 
 ## G I T H U B - S T A T S
@@ -20,9 +20,11 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielhw99&layout=compact)
 
----
+<br><br>
 
 ## S K I L L S
+
+<br>
 
 **Backend**
 
@@ -31,11 +33,15 @@
 - **JPA** : 엔티티 매핑, 조회 로직 구현, 도메인 중심 구조 경험, JPQL 커스텀 설계 경험
 - **Redis** : 프로젝트 내에서 정보, 평가 요약, 상태 데이터의 조회 API 구현
 
+<br>
+
 **Collaboration / Tools**
 
 - **GitHub**: 브랜치 기반 협업, PR 리뷰 및 머지 경험
 - **Jira**: 이슈 단위 작업 관리 및 일정 공유 경험
 - **Swagger**: API 테스트 및 명세 기반 협업 경험
+
+<br>
 
 ***주력 기술 및 경험***
 
@@ -45,20 +51,24 @@
 
 - Redis, Vue 3, TypeScript, Docker, AWS
 
+<br>
+
 > Java와 Spring Boot를 중심으로 백엔드 API를 설계·구현해왔으며, MySQL/MariaDB 기반 데이터 모델링과 JPA 활용 경험이 있습니다.
 
 
----
+<br><br>
 
-### Writing & Logs
+## Writing & Logs
 
 * 📘 Blog: [https://velog.io/@danielhw99](https://velog.io/@danielhw99)
 
 
-
+<br><br>
 
 
 ## P R O J E C T
+
+<br><br>
 
 ### FreeBridge 프리랜서와 고용주 매칭 서비스
 
