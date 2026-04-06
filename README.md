@@ -23,6 +23,8 @@
 
 <br><br>
 
+
+
 ## S K I L L S
 
 <br>
@@ -74,7 +76,30 @@
 * 링크: https://github.com/20250918-beyond-SW-Camp-21th/beyond-SW-21th-Final-4team-BE
 * 담당: 사용자 생애주기 관리 및 CRM, 마이페이지 기능 중심의 백엔드 설계·구현 및 프론트엔드 연동
 
+<br>
 
+### Compiler Optimization Automation Using LLVM and CompilerGym
+
+#### 프로젝트 정보
+
+* 인원 : 2명
+* 주제: LLVM과 CompilerGym을 활용한 C 프로그램 컴파일 최적화 자동화
+* 기간: 2024.03 ~ 2024.12
+* 형태: 캡스톤 졸업프로젝트
+* 담당: LLVM/CompilerGym 실행 환경 구성, 최적화 자동화 파이프라인 구현, 탐색 실험 및 결과 분석
+
+<br>
+
+### Chagok - 주차 예약 플랫폼
+
+#### 프로젝트 정보
+
+인원 : 5명
+주제: MSA 기반 주차 예약 플랫폼
+기간: 2025.11 ~ 2025.12
+형태: 백엔드 전용 프로젝트
+링크: https://github.com/20250918-beyond-SW-Camp-21th/beyond-SW-21th-second-1team
+담당: reservation-service 도메인 설계 및 서비스 간 연동 구조 구현
 
 <br><br>
 
