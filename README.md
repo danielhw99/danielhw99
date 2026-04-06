@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Into%20Backend%20Engineering&fontSize=30)
 
 
-## 즐겁게 치열하게 개발하는 백엔드 개발자입니다.
+## 기본에 충실한 개발자입니다.
 
 <br>
 <br>
